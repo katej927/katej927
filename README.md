@@ -8,7 +8,7 @@
 <br>
 <details align="center">
   <summary> 
-    <b> Things to know about me! </b> <i>(click to expand!)</i> 
+    <b> Things about me </b> <i>(click to expand 👇)</i> 
   </summary>
   <hr/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=katej927&show_icons=true">
@@ -31,7 +31,7 @@
 </details>
 <br>
 <p align="center"> 
-  <i> Let's connect! :incoming_envelope: </i>
+  <i> Contact :incoming_envelope: </i>
   <br/>
   <a href="https://github.com/katej927"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://velog.io/@katej927"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@katej927" /></a>
