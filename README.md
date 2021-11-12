@@ -39,6 +39,6 @@
   <br/>
   <a href="https://github.com/katej927"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://velog.io/@katej927"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@katej927" /></a>
-  <a href="mailto:devkatej927@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=kmsun0720@naver.com"/></a>
+  <a href="mailto:devkatej927@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=kmsun0720@naver.com"/></a>
 </p>
 </samp>
